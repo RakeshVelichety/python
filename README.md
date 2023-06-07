@@ -1,7 +1,5 @@
-````
-# python
-`````
 
-`````
-This repository is for python examples.
-`````
+# python
+
+
+# This repository is for python examples.
